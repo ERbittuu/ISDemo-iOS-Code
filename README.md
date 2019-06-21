@@ -1,4 +1,4 @@
-# IS Interview proceess demo code
+# IS Interview process demo code
 
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg?style=flat)](http://www.apple.com/ios/) [![Swift Version](https://img.shields.io/badge/Swift-4.2-orange.svg)]() [![Maintenance](https://img.shields.io/maintenance/yes/2019.svg)]()
 
